@@ -1,4 +1,4 @@
-2D Platformer Microgame - Version 4.0.0
+2D Platformer Microgame - Version 5.0.0
 =======================================
 
 This is the 2D Platformer Microgame. Learn the basics of creating and modifying a 2D sprite-based platformer game.
@@ -6,16 +6,23 @@ Learn more about the project here: https://assetstore.unity.com/packages/templat
 
 Changelog
 ---------
-
-## [4.0.4] - 2024-11-11
+## [5.0.2] - 2024-11-11
 
 ### Fixed
 - Removed reference to now deprecated mods
 
-## [4.0.3] - 2024-08-28
+## [5.0.1] - 2024-08-28
 
 ### Fixed
-- Added dependency to 2d feature so the Sprite editor is installed by default
+- Added 2d feature as a dependency so the sprite editor is installed by default
+- Updated some Rigidbody2D code that were depreceated to remove warnings
+
+## [5.0.0] - 2024-05-07
+
+### Changed
+
+- Updated to Unity 6 Preview
+- Updated to Cinemachine 3
 
 ## [4.0.2] - 2023-03-15
 
